@@ -6,7 +6,9 @@ permalink: /tortillas-di-mais/
 
 ### la continua ricerca della tortilla di mais perfetta
 
+continua la ricerca della tortilla di mais perfetta
 
+requisiti: no additivi tipo sapore o gusti buffi, no salsine (sono optional), solo noiose tortillas "plain"
 
 ### recap sintetico
 
