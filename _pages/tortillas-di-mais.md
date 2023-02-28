@@ -10,12 +10,14 @@ permalink: /tortillas-di-mais/
 
 ### recap sintetico
 
-|Title 1               | Title 2               | Title 3               | Title 4              |
-|--------------------- | --------------------- | --------------------- | ---------------------|
-|lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit|
-|lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
-|lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
-|lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
+| Marca             | Modello           | Voto Totale (0/5) | Sapore            | Sale              | Consistenza       | Forma             | Negozio           |
+| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| Don Fernando      | Tortilla Chips (SALT) | 4             | Giust o           | Giusto (salate)   | Croccante         | Triangolo equilatero | Despar            |
+| | | | | | | | |
+
+| lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit |
+| lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit |
+| lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit |
 
 
 
