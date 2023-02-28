@@ -4,9 +4,9 @@ title: Tortillas di mais
 permalink: /tortillas-di-mais/
 ---
 
-### la continua ricerca della tortilla di mais perfetta
+### la continua ricerca della tortilla di mais croccante perfetta
 
-continua la ricerca della tortilla di mais perfetta
+continua la ricerca della tortilla di mais perfetta, quella croccante, i nachos
 
 requisiti: no additivi tipo sapore o gusti buffi, no salsine (sono optional), solo noiose tortillas "plain"
 
