@@ -14,7 +14,7 @@ requisiti: no additivi tipo sapore o gusti buffi, no salsine (sono optional), so
 
 | Marca             | Modello           | Voto Tot (0/5) | Sapore            | Sale              | Consistenza       | Forma             |  gr. | Negozio           |
 | ----------------- | ----------------- | -------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| Don Fernando | Tortilla Chips (SALT) | 3.5 | 4 - Giusto | 3 - Troppo salate | 4 - Croccante | Tri. equilatero | 200 | Despar (nord) |
+| [Don Fernando](../_posts/2023-02-25-TortillasDonFernando.md) | Tortilla Chips (SALT) | 3.5 | 4 - Giusto | 3 - Troppo salate | 4 - Croccante | Tri. equilatero | 200 | Despar (nord) |
 | [Pai](../_posts/2023-02-25-TortillasPai.md) | Tortillas | 1 | 1 - Triste | 1 - Sciapo | 1 - Mollacciosa | Tri. Isoscele | 230 | ? |
 | | | | | | | | | |
 | | | | | | | | | |
