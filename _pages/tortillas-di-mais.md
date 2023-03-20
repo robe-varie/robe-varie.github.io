@@ -20,3 +20,26 @@ requisiti: no additivi tipo sapore o gusti buffi, no salsine (sono optional), so
 | | | | | | | | | |
 | | | | | | | | | |
 
+
+
+
+
+<div id="archives">
+
+  <div class="archive-group">
+
+    <div id="#{{ Tortillas | slugize }}"></div>
+    <p></p>
+    
+    <h3 class="category-head">{{ Tortillas }}</h3>
+    <a name="{{ Tortillas | slugize }}"></a>
+    
+    {% for post in site.categories.Tortillas %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></h4>
+    </article>
+    {% endfor %}
+    
+  </div>
+
+</div>
