@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tortillas - Amica Señorita Tortilla Classic
+title:  Tortillas - Amica - Señorita Tortilla Classic
 categories: [Tortillas,Cibo]
 ---
 
