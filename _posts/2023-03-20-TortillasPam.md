@@ -12,9 +12,9 @@ Tortillas oneste, saporite forse un pelo poco, sale forse un pelo troppo ma otti
 
 # Note:
 
-sacchetto da 230gr
-prese alla Pam
-prezzo: 1.80 euri
+- sacchetto da 230gr
+- prese alla Pam
+- prezzo: 1.80 euri
 
 # Valutazione:
 

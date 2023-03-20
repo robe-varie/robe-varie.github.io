@@ -12,9 +12,9 @@ da recensire
 
 # Note:
 
-sacchetto da 200gr
-prese alla Pam
-prezzo: 1.80 euri
+- sacchetto da 200gr
+- prese alla Pam
+- prezzo: 1.80 euri
 
 # Valutazione:
 

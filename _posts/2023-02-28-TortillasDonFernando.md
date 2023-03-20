@@ -12,8 +12,8 @@ un po troppo salate ma il fatto che ci fosse scritto "salt" sulla confezione pot
 
 # Note:
 
-sacchetto da 200gr
-trovate in un Despar in Alto Adige, sembrano di provenienza germanica, non penso si troveranno verso casa piu' a sud
+- sacchetto da 200gr
+- trovate in un Despar in Alto Adige, sembrano di provenienza germanica, non penso si troveranno verso casa piu' a sud
 
 # Valutazione:
 

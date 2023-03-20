@@ -11,8 +11,8 @@ categories: [Tortillas,Cibo]
 tristissime, poco sapore, poco sale, consistenza mollacciosa, una delusione che manco la salsina perfetta potrebbe salvare
 # Note:
 
-sacchetto da 230gr
-prese penso alla Pam
+- sacchetto da 230gr
+- prese penso alla Pam
 
 # Valutazione:
 
