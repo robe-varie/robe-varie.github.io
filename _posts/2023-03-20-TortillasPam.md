@@ -14,6 +14,7 @@ Tortillas oneste, saporite forse un pelo poco, sale forse un pelo troppo ma otti
 
 sacchetto da 230gr
 prese alla Pam
+prezzo: 1.80 euri
 
 # Valutazione:
 
@@ -21,7 +22,7 @@ prese alla Pam
 - Sale: 3 - Giusto
 - Croccantezza: 4 - Croccante
 - Forma: Triangolo Isoscele
-- TOT: 3
+- TOT: 3 
 
 
 foto presa da: https://www.abillion.com/reviews/6219511d90c4c100966511e2
