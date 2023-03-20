@@ -4,7 +4,7 @@ title:  Tortillas - Pam
 categories: [Tortillas,Cibo]
 ---
 
-<img src="../images/tortillas/pam.jpg"  width="300">
+<img src="../images/tortillas/pam.jpeg"  width="300">
 
 # Recensione:
 
