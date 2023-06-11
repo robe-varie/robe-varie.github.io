@@ -66,7 +66,11 @@ Amazon Photos funziona in maniera diversa: ogni account ha gratis 5 GB ma se hai
 - illimitato: 4.99/mese o 49.90/anno (Amazon Prime)
 
 ### Condivisione:
-a quanto non in Italia, che io abbia capito [nota1]
+a quanto pare non in Italia, che io abbia capito [nota1]
+
+### Note:
+non c'e' separazione degli account come su iCloud/Google, quindi se si usa per smartphone di persone diverse queste vedranno le foto scattate anche dall'altro/a.
+che per la privacy non e' ottimale
 
 ## Condivisione degli account:
 per iCloud e Google Photos e' possibile aggiungersi ad altri utenti che condividono il proprio abbonamento,
@@ -165,12 +169,9 @@ NB: la sincronia si ferma quando la batteria e' bassa o non si e' attaccati al W
 iCloud permette di scaricare le foto dal'interfaccia web ma la data di creazione del file sara' quella in cui la ho scaricata,
 per esempio, se e' l' 11 Giugno alle 16:00 e scarico una foto fatta il 15 Maggio alle 09:00 mi ritrovo con il file:
 IMG_1234.JPG con data di creazione del file: 11 Giugno ore 16:00
-dentro i dati exif dell'immagine cis ara' invece scritto che e' stata scattata il 15 Maggio alle ore 09:00
-per approfondire 
+dentro i dati exif dell'immagine ci sara' invece scritto che e' stata scattata il 15 Maggio alle ore 09:00
 
 ### [nota1]:
 sembra sia attivo in altri paesi tipo la Francia,
 vedi: https://www.spliiit.com/it/blog/post/comment-partager-son-compte-amazon-prime
-
-
-<img src="../images/biscotti/bisc-lidl-cerealiriso.png"  width="300">
+lo dice anche Aranzulla: https://www.aranzulla.it/come-condividere-amazon-prime-1320641.html
