@@ -86,13 +86,19 @@ Tu chiedi di essere inserito/a nella famiglia in modo da poter godere dello spaz
 
 ## Amazon Photos
 1. installare l'app Amazon Photos: https://apps.apple.com/us/app/amazon-photos-photo-video/id621574163
-2. accedere con il proprio account: <img src="../images/guide/ios_amazon_01.PNG"  width="300">
-3. <img src="../images/guide/ios_amazon_02.PNG"  width="300">
-4. Selezionare "Consenti Notifiche" <img src="../images/guide/ios_amazon_03.PNG"  width="300">
-5. Consentire accesso alle foto: <img src="../images/guide/ios_amazon_04.PNG"  width="300">
-6. Selezionare "Consenti l'accesso a tutte le foto" <img src="../images/guide/ios_amazon_05.PNG"  width="300">
-7. Selezionare "Salvataggio Automatico" e "Fine" <img src="../images/guide/ios_amazon_06.PNG"  width="300">
-8. Vedere l'upload dalla schermata dell'applicazione: <img src="../images/guide/ios_amazon_07.PNG"  width="300">
+2. accedere con il proprio account: 
+<img src="../images/guide/ios_amazon_01.PNG"  width="300"> 
+<img src="../images/guide/ios_amazon_02.PNG"  width="300">
+3. Selezionare "Consenti Notifiche" 
+<img src="../images/guide/ios_amazon_03.PNG"  width="300">
+4. Consentire accesso alle foto: 
+<img src="../images/guide/ios_amazon_04.PNG"  width="300">
+5. Selezionare "Consenti l'accesso a tutte le foto" 
+<img src="../images/guide/ios_amazon_05.PNG"  width="300">
+6. Selezionare "Salvataggio Automatico" e "Fine" 
+<img src="../images/guide/ios_amazon_06.PNG"  width="300">
+7. Vedere l'upload dalla schermata dell'applicazione: 
+<img src="../images/guide/ios_amazon_07.PNG"  width="300">
 
 
 
