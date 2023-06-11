@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Guide - Backup delle foto sugli smarthpone
+title:  Guide - Backup delle foto sugli smartphone
 categories: [Guide,IT,Smartphone,iOS,Android]
 ---
 
@@ -93,6 +93,9 @@ Tu chiedi di essere inserito/a nella famiglia in modo da poter godere dello spaz
 ## Google Photos (nativa)
 
 ## Amazon Photos
+1. installare l'app Amazon Photos: https://play.google.com/store/apps/details?id=com.amazon.clouddrive.photos&hl=it&gl=US
+2. aprirla e loggarsi con il proprio account di Amazon
+3. <img src="../images/guide/android_amazon_1.png"  width="300">
 
 
 # Note:
