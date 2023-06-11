@@ -4,8 +4,6 @@ title:  Guide - Backup delle foto sugli smarthpone
 categories: [Guide,IT,Smartphone,iOS,Android]
 ---
 
-<img src="../images/biscotti/bisc-lidl-cerealiriso.png"  width="300">
-
 # Prefazione:
 Questa guida non e' per i paranoici che vogliono tenere i propri dati per se stessi,
 
@@ -108,3 +106,6 @@ per approfondire
 ### [nota1]:
 sembra sia attivo in altri paesi tipo la Francia,
 vedi: https://www.spliiit.com/it/blog/post/comment-partager-son-compte-amazon-prime
+
+
+<img src="../images/biscotti/bisc-lidl-cerealiriso.png"  width="300">
