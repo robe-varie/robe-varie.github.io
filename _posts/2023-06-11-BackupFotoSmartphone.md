@@ -106,14 +106,18 @@ Tu chiedi di essere inserito/a nella famiglia in modo da poter godere dello spaz
 
 ## Google Photos (nativa)
 1. nel caso non fosse gia' presente, installare l'app di Google Foto: https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=it&gl=US
-2. cliccare su "Attiva il Backup" <img src="../images/guide/android_google_1.png"  width="300">
+2. cliccare su "Attiva il Backup" 
+<img src="../images/guide/android_google_1.png"  width="300">
 
 ## Amazon Photos
 1. installare l'app Amazon Photos: https://play.google.com/store/apps/details?id=com.amazon.clouddrive.photos&hl=it&gl=US
 2. aprirla e loggarsi con il proprio account di Amazon
-3. verificare che "Salvataggio automatico" sia selezionato e cliccare su "Avanti" <img src="../images/guide/android_amazon_1.png"  width="300">
-4. Consentire l'accesso alle foto <img src="../images/guide/android_amazon_2.png"  width="300">
-5. Selezionare "Consenti" <img src="../images/guide/android_amazon_3.png"  width="300">
+3. verificare che "Salvataggio automatico" sia selezionato e cliccare su "Avanti"
+<img src="../images/guide/android_amazon_1.png"  width="300">
+4. Consentire l'accesso alle foto 
+<img src="../images/guide/android_amazon_2.png"  width="300">
+5. Selezionare "Consenti"
+<img src="../images/guide/android_amazon_3.png"  width="300">
 
 
 # Note:
