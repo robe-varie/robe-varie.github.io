@@ -82,7 +82,37 @@ Tu chiedi di essere inserito/a nella famiglia in modo da poter godere dello spaz
 # iOS - iPhone
 
 ## iCLoud (nativa)
+1. Andare nelle Impostazioni e selezionare il proprio nome appena sotto la barra della ricerca 
+<img src="../images/guide/ios_icloud_01.PNG"  width="300">
+2. Selezionare "iCloud" ("5GB" varia in base a quanto spazio hai disponibile) 
+<img src="../images/guide/ios_icloud_02.PNG"  width="300">
+3. Selezionare "Foto" 
+<img src="../images/guide/ios_icloud_03.PNG"  width="300">
+4. Verificare che "Sincronizza questo iPhone" sia selezionato 
+<img src="../images/guide/ios_icloud_04.PNG"  width="300">
+5. Quindi aprire l'applicazione "Foto"
+6. Nella pagina "Libreria", in fondo, c'e' lo stato di sincronizzazione 
+<img src="../images/guide/ios_icloud_05.PNG"  width="300">
+
+NB: la sincronia si ferma quando la batteria e' bassa o non si e' attaccati al WiFi
+
+
 ## Google Photos
+1. installare l'app Google Foto: https://apps.apple.com/it/app/google-foto/id962194608 e aprirla
+2. Selezionare "Accedi" 
+<img src="../images/guide/ios_google_01.PNG"  width="300">
+3. Loggarsi con il proprio account (immagine non disponibile)
+4. Selezionare "Esegui backup come..." selezionando l'account giusto 
+<img src="../images/guide/ios_amazon_02.PNG"  width="300">
+5. Selezionare "Consenti" 
+<img src="../images/guide/ios_amazon_03.PNG"  width="300">
+6. Selezionare "Consenti l'accesso a tutte le foto" 
+<img src="../images/guide/ios_amazon_04.PNG"  width="300">
+7. Selezionare di nuovo "Consenti l'accesso a tutte le foto" 
+<img src="../images/guide/ios_amazon_05.PNG"  width="300">
+8. Vedere l'upload dalla schermata dell'applicazione: 
+<img src="../images/guide/ios_amazon_06.PNG"  width="300">
+
 
 ## Amazon Photos
 1. installare l'app Amazon Photos: https://apps.apple.com/us/app/amazon-photos-photo-video/id621574163
