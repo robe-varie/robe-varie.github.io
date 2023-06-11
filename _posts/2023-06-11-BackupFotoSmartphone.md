@@ -81,7 +81,7 @@ Tu chiedi di essere inserito/a nella famiglia in modo da poter godere dello spaz
 
 # iOS - iPhone
 
-## iCLoud (nativa)
+## iOS/iPhone - iCLoud (nativa)
 1. Andare nelle Impostazioni e selezionare il proprio nome appena sotto la barra della ricerca 
 <img src="../images/guide/ios_icloud_01.PNG"  width="300">
 2. Selezionare "iCloud" ("5GB" varia in base a quanto spazio hai disponibile) 
@@ -97,7 +97,7 @@ Tu chiedi di essere inserito/a nella famiglia in modo da poter godere dello spaz
 NB: la sincronia si ferma quando la batteria e' bassa o non si e' attaccati al WiFi
 
 
-## Google Photos
+## iOS/iPhone - Google Photos
 1. installare l'app Google Foto: https://apps.apple.com/it/app/google-foto/id962194608 e aprirla
 2. Selezionare "Accedi" 
 <img src="../images/guide/ios_google_01.PNG"  width="300">
@@ -114,7 +114,7 @@ NB: la sincronia si ferma quando la batteria e' bassa o non si e' attaccati al W
 <img src="../images/guide/ios_amazon_06.PNG"  width="300">
 
 
-## Amazon Photos
+## iOS/iPhone - Amazon Photos
 1. installare l'app Amazon Photos: https://apps.apple.com/us/app/amazon-photos-photo-video/id621574163
 2. accedere con il proprio account: 
 <img src="../images/guide/ios_amazon_01.PNG"  width="300"> 
@@ -134,12 +134,12 @@ NB: la sincronia si ferma quando la batteria e' bassa o non si e' attaccati al W
 
 # Android
 
-## Google Photos (nativa)
+## Android - Google Photos (nativa)
 1. nel caso non fosse gia' presente, installare l'app di Google Foto: https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=it&gl=US
 2. cliccare su "Attiva il Backup" 
 <img src="../images/guide/android_google_1.png"  width="300">
 
-## Amazon Photos
+## Android - Amazon Photos
 1. installare l'app Amazon Photos: https://play.google.com/store/apps/details?id=com.amazon.clouddrive.photos&hl=it&gl=US
 2. aprirla e loggarsi con il proprio account di Amazon
 3. verificare che "Salvataggio automatico" sia selezionato e cliccare su "Avanti"
@@ -149,6 +149,16 @@ NB: la sincronia si ferma quando la batteria e' bassa o non si e' attaccati al W
 5. Selezionare "Consenti"
 <img src="../images/guide/android_amazon_3.png"  width="300">
 
+# Siti Web
+
+## Sito Amazon Photos:
+<img src="../images/guide/web_amazon-photos.png"  width="300">
+
+## Sito Google Foto:
+<img src="../images/guide/web_google-photos.png"  width="300">
+
+## Sito iCloud Foto:
+<img src="../images/guide/web_icloud-photos.png"  width="300">
 
 # Note:
 ### [nota0]:
