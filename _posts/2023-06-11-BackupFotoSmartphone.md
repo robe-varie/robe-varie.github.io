@@ -19,7 +19,8 @@ Prima svisceriamo i costi e lo spazio messo a disposizione e poi le impostazioni
 
 
 # Costi e spazio
-## iCLoud
+
+## iCloud
 iCloud, il cloud di Apple, e' la soluzione nativa per il backup degli iPhone/iPad,
 un profilo iCLoud e' gratuito e "regala" 5GB di spazio per i backup, non sono tanti.
 
@@ -36,7 +37,7 @@ NB: non e' possibile cambiare famiglia per piu' di una volta all'anno, mi pare
 
 ### Varie:
 - e' raggiungibile via interfaccia WEB?: **si**
-- e' possibile scaricare semplicemente le foto dall'interfaccia web?: **si, circa, vedi nota0 in fondo**
+- e' possibile scaricare semplicemente le foto dall'interfaccia web?: **si, circa, vedi [nota0] in fondo**
 
 ### NB:
 iPhone di default salva foto e video in formato proprietario, se non si hanno esigenze particolari il consiglio e' quello di impostarlo in modalita' piu' compatibile: 
@@ -66,6 +67,19 @@ Amazon Photos funziona in maniera diversa: ogni account ha gratis 5 GB ma se hai
 - 5 GB: gratisse
 - illimitato: 4.99/mese o 49.90/anno (Amazon Prime)
 
+### Condivisione:
+a quanto non in Italia, che io abbia capito [nota1]
+
+## Condivisione degli account:
+per iCloud e Google Photos e' possibile aggiungersi ad altri utenti che condividono il proprio abbonamento,
+mio cuggino usa spliiit.com per alcune cose.
+
+Esempio: un utente compra iCloud da 2TB a 9.99/mese e decide di condividerlo con altri sulla piattaforma,
+uno slot viene a costare 9.99/6 posti = 1.66 euri/mese a testa
+Tu chiedi di essere inserito/a nella famiglia in modo da poter godere dello spazio in piu', gli fornisci il tuo contatto iCloud e l'utente ti aggiunge.
+
+**ATTENZIONE**: l'inserimento in famiglia a volte conincide con la condivisione di alcuni dati tipo la posizione su iCloud, vanno rivisti questi parametri (non e' oggetto di questa guida sviscerare queste impostazioni)
+
 
 # iOS - iPhone
 
@@ -84,9 +98,13 @@ Amazon Photos funziona in maniera diversa: ogni account ha gratis 5 GB ma se hai
 
 
 # Note:
-## Nota0:
+### [nota0]:
 iCloud permette di scaricare le foto dal'interfaccia web ma la data di creazione del file sara' quella in cui la ho scaricata,
 per esempio, se e' l' 11 Giugno alle 16:00 e scarico una foto fatta il 15 Maggio alle 09:00 mi ritrovo con il file:
 IMG_1234.JPG con data di creazione del file: 11 Giugno ore 16:00
 dentro i dati exif dell'immagine cis ara' invece scritto che e' stata scattata il 15 Maggio alle ore 09:00
 per approfondire 
+
+### [nota1]:
+sembra sia attivo in altri paesi tipo la Francia,
+vedi: https://www.spliiit.com/it/blog/post/comment-partager-son-compte-amazon-prime
