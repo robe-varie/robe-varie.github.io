@@ -9,7 +9,7 @@ Questa guida non e' per i paranoici che vogliono tenere i propri dati per se ste
 
 e' pensata per utenti meno esigenti a cui serve salvare le foto nel caso il proprio smartphone si rompa, sparisca, prenda fuoco.
 
-L'obiettivo e' quello di impostare un metodo di backup delle foto in modalita' "imposta e dimentica", in questo modo la richiesta di manutenzione dello strumento e' bassa, quindi ci saranno maggiori possibilita' che esso funzioni quando ce ne sara' bisogno.
+L'obiettivo e' quello di implementare un metodo di backup delle foto in modalita' "imposta e dimentica", in questo modo la richiesta di manutenzione dello strumento e' bassa, quindi ci saranno maggiori possibilita' che esso funzioni quando ce ne sara' bisogno.
 
 Questa guida usa applicazioni commerciali, a volte a pagamento.
 
@@ -86,20 +86,20 @@ Tu chiedi di essere inserito/a nella famiglia in modo da poter godere dello spaz
 # iOS - iPhone
 
 ## iOS/iPhone - iCLoud (nativa)
-- 1. Andare nelle Impostazioni e selezionare il proprio nome appena sotto la barra della ricerca 
+- 1 Andare nelle Impostazioni e selezionare il proprio nome appena sotto la barra della ricerca 
 
 <img src="../images/guide/ios_icloud_01.PNG"  width="300">
-- 2. Selezionare "iCloud" ("5GB" varia in base a quanto spazio hai disponibile) 
+- 2 Selezionare "iCloud" ("5GB" varia in base a quanto spazio hai disponibile) 
 
 <img src="../images/guide/ios_icloud_02.PNG"  width="300">
-- 3. Selezionare "Foto" 
+- 3 Selezionare "Foto" 
 
 <img src="../images/guide/ios_icloud_03.PNG"  width="300">
-- 4. Verificare che "Sincronizza questo iPhone" sia selezionato 
+- 4 Verificare che "Sincronizza questo iPhone" sia selezionato 
 
 <img src="../images/guide/ios_icloud_04.PNG"  width="300">
-- 5. Quindi aprire l'applicazione "Foto"
-- 6. Nella pagina "Libreria", in fondo, c'e' lo stato di sincronizzazione 
+- 5 Quindi aprire l'applicazione "Foto"
+- 6 Nella pagina "Libreria", in fondo, c'e' lo stato di sincronizzazione 
 
 <img src="../images/guide/ios_icloud_05.PNG"  width="300">
 
