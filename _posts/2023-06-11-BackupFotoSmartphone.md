@@ -180,3 +180,8 @@ dentro i dati exif dell'immagine ci sara' invece scritto che e' stata scattata i
 sembra sia attivo in altri paesi tipo la Francia,
 vedi: https://www.spliiit.com/it/blog/post/comment-partager-son-compte-amazon-prime
 lo dice anche Aranzulla: https://www.aranzulla.it/come-condividere-amazon-prime-1320641.html
+  
+# TODO:
+- [ ] sistemare link delle applicazioni che sono solo testo
+- [ ] sistemare formattazione foto nei passaggi
+- [ ] aggiungere come scendere nella tana del bianconiglio per selfhost/avere i propri dati
