@@ -161,13 +161,13 @@ NB: la sincronia si ferma quando la batteria e' bassa o non si e' attaccati al W
 # Siti Web
 
 ## Sito Amazon Photos:
-<img src="../images/guide/web_amazon-photos.png"  width="300">
+<a href="../images/guide/web_amazon-photos.png"><img src="../images/guide/web_amazon-photos.png"  width="300">
 
 ## Sito Google Foto:
-<img src="../images/guide/web_google-photos.png"  width="300">
+<a href="../images/guide/web_google-photos.png"><img src="../images/guide/web_google-photos.png"  width="300">
 
 ## Sito iCloud Foto:
-<img src="../images/guide/web_icloud-photos.png"  width="300">
+<a href="../images/guide/web_icloud-photos.png"><img src="../images/guide/web_icloud-photos.png"  width="300">
 
 # Note:
 ### [nota0]:
