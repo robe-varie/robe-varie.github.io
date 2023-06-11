@@ -24,6 +24,7 @@ iCloud, il cloud di Apple, e' la soluzione nativa per il backup degli iPhone/iPa
 un profilo iCLoud e' gratuito e "regala" 5GB di spazio per i backup, non sono tanti.
 
 ### Costi mensili di eventuali upgrade di spazio:
+- 5 GB: gratisse
 - 50 GB: € 0,99
 - 200 GB: € 2,99
 - 2 TB: € 9,99
@@ -42,7 +43,20 @@ iPhone di default salva foto e video in formato proprietario, se non si hanno es
 fonte: https://support.apple.com/it-it/HT207022
 
 ## Google Photos
+Un account Google "regala" 15GB di spazio
+
+### Costi mensili di eventuali upgrade di spazio:
+- 15 GB: gratisse
+- 100 GB: 1.99/mese o 19.99/anno
+- 200 GB: 2.99/mese o 29.99/anno
+- 2 TB: 9.99/mese o 99.99/anno
+
 ## Amazon Photos
+Amazon Photos funziona in maniera diversa: ogni account ha gratis 5 GB ma se hai Amazon Prime hai spazio di archiviazione illimitato per le foto (ma non per i video)
+
+### Costi mensili di eventuali upgrade di spazio:
+- 5 GB: gratisse
+- illimitato: 4.99/mese o 49.90/anno (Amazon Prime)
 
 
 # iOS - iPhone
